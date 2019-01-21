@@ -8,6 +8,24 @@
 
 ### [The Layer 2 projects](#3) 
 
+|[State Channel](#11)|[Side Chain](#12)|[Off Chain Computation](#13)|[Research Institute](#14)|
+|--------|--------|--------|--------|
+|[Celer Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#celer-network)|[Alacris](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#alacris)|[AlphaWallet](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#alphawallet)|[Finality Labs](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#finality-labs)|
+|[Connext](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#connext)|[Livepeer](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#livepeer)|[Oraclize](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Oraclize)|[L4](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#l4)|
+|[Counterfactual](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#counterfactual)|[Loom Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#loom-network)|STARK||
+|[FunFair](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#funfair)|[OmiseGo](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#omisego)|TEEX||
+|[Lighting Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#lighting-network)|[Plasma](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#plasma)|[Transmute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Transmute)||
+|[Liquidity Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#liquidity-network)|[POA Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#poa-network)|TrueBit||
+|[Machionmy](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Machionmy)|[SKALE](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#skale)|||
+|[Magmo](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Magmo)||||
+|[Parsec](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#parsec)||||
+|[Perun](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#perun)||||
+|[Pisa](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#pisa)||||
+|[Raiden Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#raiden-network)||||
+|[SpankChain](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#spankchain)||||
+|[Sprites](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#sprites)||||
+|[Trinity](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#trinity)|
+
 * [state channel](#11)
 
 * [sidechain](#12)
