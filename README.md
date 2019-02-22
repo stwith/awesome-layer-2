@@ -62,7 +62,7 @@
 
   - STARK
 
-  - TEEX
+  - [TEEX](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#TEEX)
 
   - [Transmute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Transmute)
 
@@ -1084,6 +1084,38 @@ Click [here and back to the list](#1)
 Click [here and back to the list](#1)
 
 
+## TEEX
+
+**Intro**: TEEX is a secure distributed computing platform which provides a Layer-2 solution based on blockchain. It builds a complete incentive model of computing resource sharing, which provides a decentralized, usable and flexible computing market for users, workers and service providers.
+
+
+### Basic Information:
+
+- [website](https://teex.io/)
+
+- [GitHub](https://github.com/TEEXIO)
+
+- [Blog](https://medium.com/@teexofficial)
+
+- [Twitter](https://twitter.com/teexio)
+
+- [Telegram](https://t.me/teexofficialgroup)
+
+
+### Product/Document:
+
+- [Whitepaper](https://docsend.com/view/qyj5tra)
+
+- [Documentation](https://teex.io/doc/)
+
+
+### Article:
+
+- [Taming Distrust in the Decentralized Internet with PIXIU](https://arxiv.org/pdf/1901.06095.pdf)
+
+Click [here and back to the list](#1)
+
+
 ## Transmute
 
 **Intro**： configures decentralized apps to work seamlessly with both public and private clouds. Use your existing development resources to deploy superior apps in minutes.
@@ -1131,6 +1163,7 @@ Click [here and back to the list](#1)
 Click [here and back to the list](#1)
 
 <h1 id="14">Research Institute</h1>
+
 ## Finality Labs
 
 **Intro**: Finality Labs is a community of researchers, devs, modders, hackers, and gamers uniting to experiment with and create new applications of cryptographic systems.
