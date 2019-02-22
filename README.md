@@ -61,6 +61,8 @@
   - [Oraclize](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Oraclize)
 
   - STARK
+  
+  - StarkWare(https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#StarkWare)
 
   - TEEX
 
@@ -1080,6 +1082,47 @@ Click [here and back to the list](#1)
 ### Video
 
 - [How to design Auditable Offchain computations via Oraclize](https://www.youtube.com/watch?v=T7g8UcLlNm4)
+
+Click [here and back to the list](#1)
+
+
+## StarkWare
+
+**Intro**: StarkWare will improve scalability and privacy in blockchains using STARK technology, providing cryptographic proofs that are zero-knowledge, succinct, transparent (no need for a trusted setup), and post-quantum secure. StarkWare will develop a full proof stack: software and hardware to support fast and reliable generation and verification of computational integrity proofs for general computations.
+
+### Basic Information:
+
+- [website](https://www.starkware.co/)
+
+- [Blog](https://medium.com/@StarkWare)
+
+- [Twitter](https://twitter.com/StarkWareLtd)
+
+- [LinkedIn](https://www.linkedin.com/company/starkware/)
+
+
+### Product/Document:
+
+- [Publication](https://eprint.iacr.org/2018/046.pdf) 
+
+### Article:
+
+- [STARKs, Part I: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
+
+- [STARKs, Part II: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
+
+- [STARKs, Part 3: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
+
+- [STARK Math Part1: The Journey Begins](https://medium.com/starkware/stark-math-the-journey-begins-51bd2b063c71)
+
+- [STARK Math Part2: Execution trace and polynomial](https://medium.com/starkware/arithmetization-i-15c046390862)
+
+
+### Videos
+
+- [Professor Eli Ben-Sasson talks about STARK (Short Version)](https://www.youtube.com/watch?v=rmlMpAbZOC0)
+
+- [Professor Eli Ben-Sasson talks about STARK (Long Version)](https://www.youtube.com/watch?v=kYmnXxs9kUM)
 
 Click [here and back to the list](#1)
 
